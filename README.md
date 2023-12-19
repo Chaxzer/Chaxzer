@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaxzer
 - 👀 I’m interested in getting a job
 - 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on some intern level projects
+- 💞️ I’m having 3 years of experience
 - 📫 How to reach me chaxzer@gmail.com
 - 🔴 youtube.com/chaxzer 
 <!---
